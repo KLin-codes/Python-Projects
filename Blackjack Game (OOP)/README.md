@@ -1,4 +1,4 @@
-## 1. Blackjack (OOP Console Game)
+## Blackjack (OOP Console Game)
 
 A command-line Blackjack game implemented in Python. For learning and practicing purpose only.
 

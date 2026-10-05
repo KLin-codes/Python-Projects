@@ -5,7 +5,8 @@
 This project analyses HDB resale flat transactions in Singapore using Python, Pandas, SQL and SQLite. The project retrieves data from the HDB resale flat dataset, cleans and stores the data in a SQLite database, and uses SQL queries and visualisations to identify patterns in resale prices.
 
 **Limitation:**
-Data coverage → The API requests were capped at 100,000 records, so the analysis covers resale transactions from January 2017 to June 2021 only, not the full dataset.
+
+**Data coverage** → The API requests were capped at 100,000 records, so the analysis covers resale transactions from January 2017 to June 2021 only, not the full dataset.
 
 ## Data Pipeline
 
